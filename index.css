@@ -119,6 +119,10 @@ li{
 .small{
     text-transform: lowercase;
 }
+
+.para{
+    list-style: none;
+}
 /* 
 img{
     height: 200px;
