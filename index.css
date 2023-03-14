@@ -93,8 +93,8 @@
 }
 
 li{
-    list-style: circle;
-    list-style:circle
+    /* list-style: circle; */
+    list-style:none;
     /* margin-left: 40px; */
 }
 
@@ -119,17 +119,12 @@ li{
 .small{
     text-transform: lowercase;
 }
-
-.para{
-    list-style: none;
-}
 /* 
 img{
     height: 200px;
     width: 200px;
 } */
 
-
-.projects{
-    margin-left: 120px;
+.acolor{
+    color: rgb(226, 138, 24);
 }
