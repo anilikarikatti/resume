@@ -128,3 +128,9 @@ img{
 .acolor{
     color: rgb(226, 138, 24);
 }
+
+.dw1{
+    position: sticky;
+    top: 10px;
+    left: 1150px;
+}
